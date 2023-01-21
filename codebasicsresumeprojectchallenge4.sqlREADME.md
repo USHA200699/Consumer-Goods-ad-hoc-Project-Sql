@@ -29,7 +29,7 @@ SELECT *,
 	round(((unique_product_2021-unique_product_2020)/unique_product_2020)*100,2) as percentage_chg 
     FROM unique_2020,unique_2021
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 /* 3. Provide a report with all the unique product counts for each segment and
 sort them in descending order of product counts. The final output contains
@@ -215,3 +215,13 @@ ct2 AS(
 FROM total_sold)
 SELECT * FROM ct2 WHERE  rnk<=3
 LIMIT 9
+
+
+
+/*1. Provide the list of markets in which customer "Atliq Exclusive" operates its
+business in the APAC region.*/
+
+SELECT distinct market 
+FROM dim_customer
+where customer="Atliq Exclusive" and region like'%APAC%';
+
