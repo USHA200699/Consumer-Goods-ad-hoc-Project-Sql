@@ -74,11 +74,11 @@ Microsoft Power Point (To create an interactive presentation).
 9. Retailer channel helped to bring more gross sales in the fiscal year 2021 which were about 73.22%. 
 10. Following are the highest sold products in the fiscal year 2021: 
 
-    i) In N & S division - AQ Pen Drive 2 in 1,   AQ pen drive DRC. 
+   i) In N & S division - AQ Pen Drive 2 in 1,   AQ pen drive DRC. 
 
-    ii) In P & A division, AQ Gamers Ms and AQ  Maxima MS. 
+   ii) In P & A division, AQ Gamers Ms and AQ  Maxima MS. 
 
-    iii) In PC division, AQ Digit and AQ Velocity
+   iii) In PC division, AQ Digit and AQ Velocity
 
 
 
