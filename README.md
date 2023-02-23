@@ -3,7 +3,7 @@
 # AtliQ ConsumerGoods SQL
  As part of the February month codebasics resume challenge, I have written SQL queries for the given ad-hoc-requests with the detailed presentation.
 
-## Challege 
+## Challenge 
 Provide insights to the management in Consumer Goods Domain
 
 ## Domain: Consumer Goods | Function: Executive Management
