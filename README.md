@@ -3,15 +3,20 @@
 # AtliQ ConsumerGoods SQL
  As part of the February month codebasics resume challenge, I have written SQL queries for the given ad-hoc-requests with the detailed presentation.
 
-# Challenge Provide insights to the management in Consumer Goods Domain
+## Challege 
+Provide insights to the management in Consumer Goods Domain
 
-# Project Statement
+## Domain: Consumer Goods | Function: Executive Management
+
+
+
+## Project Statement
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
 
-# Task
+## Task
 
 Imagine yourself as the applicant for this role and perform the following task.
 
@@ -20,13 +25,13 @@ Imagine yourself as the applicant for this role and perform the following task.
 3. The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
 4. Be creative with your presentation, audio/video presentation will have more weightage.
 
-# Other resources Provided:
+## Other resources Provided:
 
 a. Dataset required to provide
 
 b. Metadata 
 
-c. Hints (try not to use the hints to develop your skills quicker).
+c.  Hints (try not to use the hints to develop your skills quicker).
 
 d. Sample questions and Presentation
 
@@ -56,10 +61,14 @@ Microsoft Power Point (To create an interactive presentation).
 8. In 1st Quarter of 2020 (Sept, Oct, Nov) maximum products were sold. 
 9. Retailer channel helped to bring more gross sales in the fiscal year 2021 which were about 73.22%. 
 10. Following are the highest sold products in the fiscal year 2021: 
+
 i) In N & S division - AQ Pen Drive 2 in 1, AQ pen drive DRC. 
 
 ii) In P & A division, AQ Gamers Ms and AQ Maxima MS. 
 
 iii) In PC division, AQ Digit and AQ Velocity
+
+
+
 
 
