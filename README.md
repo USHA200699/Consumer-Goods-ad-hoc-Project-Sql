@@ -6,7 +6,7 @@
 ## Challenge 
 Provide insights to the management in Consumer Goods Domain
 
-## Domain: Consumer Goods | Function: Executive Management
+### Domain: Consumer Goods | Function: Executive Management
 
 
 
