@@ -10,6 +10,18 @@ Provide insights to the management in Consumer Goods Domain
 
 
 
+# Consumer-Goods-ad_hoc-Project
+
+# AtliQ ConsumerGoods SQL
+ As part of the February month codebasics resume challenge, I have written SQL queries for the given ad-hoc-requests with the detailed presentation.
+
+## Challenge 
+Provide insights to the management in Consumer Goods Domain
+
+## Domain: Consumer Goods | Function: Executive Management
+
+
+
 ## Project Statement
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
@@ -62,11 +74,12 @@ Microsoft Power Point (To create an interactive presentation).
 9. Retailer channel helped to bring more gross sales in the fiscal year 2021 which were about 73.22%. 
 10. Following are the highest sold products in the fiscal year 2021: 
 
-i) In N & S division - AQ Pen Drive 2 in 1, AQ pen drive DRC. 
+    i) In N & S division - AQ Pen Drive 2 in 1,   AQ pen drive DRC. 
 
-ii) In P & A division, AQ Gamers Ms and AQ Maxima MS. 
+    ii) In P & A division, AQ Gamers Ms and AQ  Maxima MS. 
 
-iii) In PC division, AQ Digit and AQ Velocity
+    iii) In PC division, AQ Digit and AQ Velocity
+
 
 
 
