@@ -5,6 +5,7 @@ SELECT DISTINCT market
 FROM dim_customer
 WHERE customer="Atliq Exclusive" AND region="APAC";
 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 /*2.What is the percentage of unique product increase in 2021 vs. 2020? The
